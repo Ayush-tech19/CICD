@@ -1,0 +1,13 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "ayush",
+  "license": "ISC",
+  "type": "commonjs"
+}
