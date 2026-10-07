@@ -2,7 +2,7 @@
   "name": "cicd",
   "version": "1.0.0",
   "description": "",
-  "main": "math.js",
+  "main": "math.test.js",
   "scripts": {
     "test": "jest"
   },
